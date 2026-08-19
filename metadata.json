@@ -1,0 +1,7 @@
+{
+  "name": "LuxeAura.pk",
+  "description": "Luxury jewellery and watches online shopping destination with live catalog, orders, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
